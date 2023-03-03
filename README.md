@@ -1,4 +1,4 @@
-<h1 align="center"> ALURA SPACE </h1>
+<h1 align="center"> ALURA SPACE (em desenvolvimento) </h1>
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/souzalavs/Alura_Space/blob/master/LICENSE)
 
@@ -16,7 +16,7 @@
 
 # Sobre o projeto
 
-Projeto web voltado para o desenvolvimento back-end com o framework Django. 
+Alura Space é um projeto web voltado para o desenvolvimento back-end de uma galeria, utilizando o framework Django. O usuário deve se cadastrar e realizar o login para ter acesso à galeria. As fotos são disponibilizadas em cards com título e legenda. Ao clicar na imagem, o usuário deve ser redirecionado para uma página que mostra a imagem e suas inforamções. Além disso, cards de fotos podem ser armazenados no banco sem serem postados. O usuário define se gostaria de publicá-lo ou não. Ao realizar o logout, o usuário deve ser redirecionado para a página de login.
 
 Para o projeto foi utilizado o ambiente virtual. 
 
@@ -30,25 +30,25 @@ Tela de login
 
 <p><img width="100%" height="100%" src="img/login.png"></img></p> 
 
-Tela de cadastro do pet
+Menu Home
 
-<p><img width="100%" height="100%" src="img/novo_pet.png"></img></p> 
+<p><img width="100%" height="100%" src="img/menu-home.png"></img></p> 
 
-Tela com os pets para adoção
+Home
 
-<p><img width="100%" height="100%" src="img/adotar.png"></img></p> 
+<p><img width="100%" height="100%" src="img/home.png"></img></p> 
 
-Tela de informações do pet
+Imagem
 
-<p><img width="100%" height="100%" src="img/informacoes_pet.png"></img></p> 
+<p><img width="100%" height="100%" src="img/card.png"></img></p> 
 
-Tela com os pets do usuário
+Painel de administrador
 
-<p><img width="100%" height="100%" src="img/seus_pets.png"></img></p> 
+<p><img width="100%" height="100%" src="img/painel-admin.png"></img></p> 
 
-Tela de dashboard exibindo o gráfico 
+Tela de cadastro dos cards
 
-<p><img width="100%" height="100%" src="img/api_grafico.png"></img></p> 
+<p><img width="100%" height="100%" src="img/cadastra-card.png"></img></p> 
 
 <br> 
 
