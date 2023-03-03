@@ -6,6 +6,8 @@
 
 <br>
 
+<p align="center"><img width="30%" height="30%" src="img/logo.png"></img></p>
+
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#-layouts">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
